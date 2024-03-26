@@ -1,3 +1,2 @@
 # Radar-MK1
-Software and supporting code 
-Updated and test1
+Software and supporting code for Ku-band phased array radar system
